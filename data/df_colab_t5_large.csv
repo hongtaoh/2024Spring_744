@@ -1,0 +1,19 @@
+input,output,model,configuration,machine,tokens_per_second
+10,10,T5 large,no-ds-1gpu,Colab (T4),3.8
+10,10,T5 large,ds-1gpu,Colab (T4),18.8
+10,250,T5 large,no-ds-1gpu,Colab (T4),4.2
+10,250,T5 large,ds-1gpu,Colab (T4),18.8
+10,500,T5 large,no-ds-1gpu,Colab (T4),4.2
+10,500,T5 large,ds-1gpu,Colab (T4),17.7
+50,10,T5 large,no-ds-1gpu,Colab (T4),3.0
+50,10,T5 large,ds-1gpu,Colab (T4),14.4
+50,250,T5 large,no-ds-1gpu,Colab (T4),4.9
+50,250,T5 large,ds-1gpu,Colab (T4),17.6
+50,500,T5 large,no-ds-1gpu,Colab (T4),4.9
+50,500,T5 large,ds-1gpu,Colab (T4),18.7
+100,10,T5 large,no-ds-1gpu,Colab (T4),2.4
+100,10,T5 large,ds-1gpu,Colab (T4),14.0
+100,250,T5 large,no-ds-1gpu,Colab (T4),4.6
+100,250,T5 large,ds-1gpu,Colab (T4),18.1
+100,500,T5 large,no-ds-1gpu,Colab (T4),4.5
+100,500,T5 large,ds-1gpu,Colab (T4),19.1
